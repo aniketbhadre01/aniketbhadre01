@@ -9,13 +9,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/aniketbhadre01/aniketbhadre01](https://github.com/aniketbhadre01/aniketbhadre01)
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **Web-Devlopment **
 
 - 📫 How to reach me **aniketbhadre777@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/aniket-bhadre-44a185261](https://www.linkedin.com/in/aniket-bhadre-44a185261)
 
-- ⚡ Fun fact **I write code at night and commite it on morning**
+- ⚡ Fun fact **commits code at night and merges it in day. - </>;**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
