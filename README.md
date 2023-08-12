@@ -3,19 +3,23 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketbhadre01&label=Profile%20views&color=0e75b6&style=flat" alt="aniketbhadre01" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aniketbhadre01" alt="aniketbhadre01" /></a> </p>
+
+- 🔭 I’m currently working on **Octanet-intern-web-dev**
+
 - 🌱 I’m currently learning **react ,javascript, html5 , css3 , version control**
 
 - 🤝 I’m looking for help with **frontend -job**
 
 - 👨‍💻 All of my projects are available at [https://github.com/aniketbhadre01/aniketbhadre01](https://github.com/aniketbhadre01/aniketbhadre01)
 
-- 💬 Ask me about **Web-Devlopment **
+- 💬 Ask me about **react**
 
 - 📫 How to reach me **aniketbhadre777@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/aniket-bhadre-44a185261](https://www.linkedin.com/in/aniket-bhadre-44a185261)
 
-- ⚡ Fun fact **commits code at night and merges it in day. - </>;**
+- ⚡ Fun fact **I write code at night and commite it on morning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
