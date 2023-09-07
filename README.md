@@ -19,11 +19,12 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/aniket-bhadre-44a185261](https://www.linkedin.com/in/aniket-bhadre-44a185261)
 
-- ⚡  if (codeWorking){
+- ⚡if (codeWorking){
             while (codeQuality < perfectCode){
                 codeQuality++;
             }
-        }  - aniket bhadre
+        }
+// - aniket bhadre
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
