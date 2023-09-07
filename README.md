@@ -19,7 +19,12 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/aniket-bhadre-44a185261](https://www.linkedin.com/in/aniket-bhadre-44a185261)
 
-- ⚡ Fun fact **I write code at night and commite it on morning**
+- ⚡ if (codeWorking){
+            while (codeQuality < perfectCode){
+                codeQuality++;
+            }
+        }
+// - aniket bhadre
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
