@@ -23,8 +23,7 @@
             while (codeQuality < perfectCode){
                 codeQuality++;
             }
-        }
- - aniket bhadre
+        }  - aniket bhadre
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
