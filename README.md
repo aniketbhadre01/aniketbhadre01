@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aniketbhadre01" alt="aniketbhadre01" /></a> </p>
 
-- 🔭 I’m currently working on **Octanet-intern-web-dev**
+- 🔭 I’m currently working on **HAMSI MARKETING PRIVATE LIMITED**
 
 - 🌱 I’m currently learning **react ,javascript, html5 , css3 , version control**
 
